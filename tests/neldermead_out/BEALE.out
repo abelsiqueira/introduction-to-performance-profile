@@ -1,0 +1,15 @@
+sifdecode  BEALE
+
+ Problem name: BEALE     
+
+ Double precision version will be formed. 
+
+ The objective function uses        3 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 0.65625
+Setup time: 0.00333297
+Solve time: 0.00333402
+Number of Function Evaluations = 238

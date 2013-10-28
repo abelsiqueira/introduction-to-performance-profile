@@ -1,0 +1,15 @@
+sifdecode  HATFLDE
+
+ Problem name: HATFLDE   
+
+ Double precision version will be formed. 
+
+ The objective function uses       21 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 2.72874e-06
+Setup time: 0.00333402
+Solve time: 0.00666699
+Number of Function Evaluations = 370

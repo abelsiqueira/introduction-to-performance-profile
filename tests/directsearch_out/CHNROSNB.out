@@ -1,0 +1,16 @@
+sifdecode  CHNROSNB
+
+ Problem name: CHNROSNB  
+
+ Double precision version will be formed. 
+
+ The objective function uses       49 linear groups
+ The objective function uses       49 nonlinear groups
+ 
+ There are       50 free variables
+ 
+ 
+Objective value = 47.9675
+Setup time: 0.00999999
+Solve time: 2.56333
+Number of Function Evaluations = 296401

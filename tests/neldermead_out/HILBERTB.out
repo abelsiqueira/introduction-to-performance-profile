@@ -1,0 +1,15 @@
+sifdecode  HILBERTB
+
+ Problem name: HILBERTB  
+
+ Double precision version will be formed. 
+
+ The objective function uses       55 nonlinear groups
+ 
+ There are       10 free variables
+ 
+ 
+Objective value = 8.00529e-24
+Setup time: 0.006666
+Solve time: 0.023334
+Number of Function Evaluations = 2349

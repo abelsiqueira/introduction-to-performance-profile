@@ -1,0 +1,15 @@
+sifdecode  TOINTQOR
+
+ Problem name: TOINTQOR  
+
+ Double precision version will be formed. 
+
+ The objective function uses       83 linear groups
+ 
+ There are       50 free variables
+ 
+ 
+Objective value = 1175.47
+Setup time: 0.00666699
+Solve time: 0.243333
+Number of Function Evaluations = 64701

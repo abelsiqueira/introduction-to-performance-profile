@@ -1,0 +1,16 @@
+sifdecode  CUBE
+
+ Problem name: CUBE      
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 8.59262e-19
+Setup time: 0.00333402
+Solve time: 0.05
+Number of Function Evaluations = 205465

@@ -1,0 +1,15 @@
+sifdecode  TOINTGOR
+
+ Problem name: TOINTGOR  
+
+ Double precision version will be formed. 
+
+ The objective function uses       83 nonlinear groups
+ 
+ There are       50 free variables
+ 
+ 
+Objective value = 734.67
+Setup time: 0.003333
+Solve time: 0.256667
+Number of Function Evaluations = 63901

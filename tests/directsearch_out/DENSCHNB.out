@@ -1,0 +1,16 @@
+sifdecode  DENSCHNB
+
+ Problem name: DENSCHNB  
+
+ Double precision version will be formed. 
+
+ The objective function uses        2 linear groups
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 0
+Setup time: 0.00333303
+Solve time: 0
+Number of Function Evaluations = 173

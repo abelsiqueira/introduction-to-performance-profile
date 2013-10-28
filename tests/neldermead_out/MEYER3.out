@@ -1,0 +1,15 @@
+sifdecode  MEYER3
+
+ Problem name: MEYER3    
+
+ Double precision version will be formed. 
+
+ The objective function uses       16 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 87.9459
+Setup time: 0.00999999
+Solve time: 0.00999999
+Number of Function Evaluations = 3081

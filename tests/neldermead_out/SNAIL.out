@@ -1,0 +1,15 @@
+sifdecode  SNAIL
+
+ Problem name: SNAIL     
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 1.21848e-25
+Setup time: 0.00999999
+Solve time: 0
+Number of Function Evaluations = 648

@@ -1,0 +1,15 @@
+sifdecode  PALMER1C
+
+ Problem name: PALMER1C  
+
+ Double precision version will be formed. 
+
+ The objective function uses       35 nonlinear groups
+ 
+ There are        8 free variables
+ 
+ 
+Objective value = 2425.39
+Setup time: 0.003333
+Solve time: 0.026667
+Number of Function Evaluations = 3409

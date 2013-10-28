@@ -1,0 +1,15 @@
+sifdecode  BIGGS6
+
+ Problem name: BIGGS6    
+
+ Double precision version will be formed. 
+
+ The objective function uses       13 nonlinear groups
+ 
+ There are        6 free variables
+ 
+ 
+Objective value = 0.00565565
+Setup time: 0.003333
+Solve time: 0.02
+Number of Function Evaluations = 1846

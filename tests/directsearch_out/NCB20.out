@@ -1,0 +1,15 @@
+sifdecode  NCB20
+
+ Problem name: NCB20     
+
+ Double precision version will be formed. 
+
+ The objective function uses     5001 nonlinear groups
+ 
+ There are     5010 free variables
+ 
+ ** Exit from MAKEFN - insufficient space. Increase size of NSETVC
+
+ Return from MAKEFN, INFORM = -12
+ 
+error exit from decoding stage. terminating execution.

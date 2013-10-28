@@ -1,0 +1,15 @@
+sifdecode  EXPFIT
+
+ Problem name: EXPFIT    
+
+ Double precision version will be formed. 
+
+ The objective function uses       10 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 24.0625
+Setup time: 0.00333402
+Solve time: 0
+Number of Function Evaluations = 217

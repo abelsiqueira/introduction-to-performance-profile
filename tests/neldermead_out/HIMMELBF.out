@@ -1,0 +1,15 @@
+sifdecode  HIMMELBF
+
+ Problem name: HIMMELBF  
+
+ Double precision version will be formed. 
+
+ The objective function uses        7 nonlinear groups
+ 
+ There are        4 free variables
+ 
+ 
+Objective value = 318.572
+Setup time: 0.00333399
+Solve time: 0.006666
+Number of Function Evaluations = 839

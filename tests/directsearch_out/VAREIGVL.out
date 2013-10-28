@@ -1,0 +1,15 @@
+sifdecode  VAREIGVL
+
+ Problem name: VAREIGVL  
+
+ Double precision version will be formed. 
+
+ The objective function uses       50 nonlinear groups
+ 
+ There are       50 free variables
+ 
+ 
+Objective value = 0
+Setup time: 0.013333
+Solve time: 0.036667
+Number of Function Evaluations = 8901

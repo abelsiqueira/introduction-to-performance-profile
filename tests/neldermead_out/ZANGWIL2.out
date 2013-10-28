@@ -1,0 +1,15 @@
+sifdecode  ZANGWIL2
+
+ Problem name: ZANGWIL2  
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = -inf
+Setup time: 0.00999999
+Solve time: 0.68
+Number of Function Evaluations = 3119

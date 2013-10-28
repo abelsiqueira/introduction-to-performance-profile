@@ -1,0 +1,16 @@
+sifdecode  ALLINITU
+
+ Problem name: ALLINITU  
+
+ Double precision version will be formed. 
+
+ The objective function uses        2 linear groups
+ The objective function uses       10 nonlinear groups
+ 
+ There are        4 free variables
+ 
+ 
+Objective value = 5.74438
+Setup time: 0.003333
+Solve time: 0.003333
+Number of Function Evaluations = 405

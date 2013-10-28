@@ -1,0 +1,15 @@
+sifdecode  HUMPS
+
+ Problem name: HUMPS     
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 2.73034e-26
+Setup time: 0.00333297
+Solve time: 0.006666
+Number of Function Evaluations = 4285

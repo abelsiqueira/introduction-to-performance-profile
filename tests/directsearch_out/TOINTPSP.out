@@ -1,0 +1,15 @@
+sifdecode  TOINTPSP
+
+ Problem name: TOINTPSP  
+
+ Double precision version will be formed. 
+
+ The objective function uses       83 nonlinear groups
+ 
+ There are       50 free variables
+ 
+ 
+Objective value = 225.56
+Setup time: 0.006666
+Solve time: 0.506667
+Number of Function Evaluations = 110301

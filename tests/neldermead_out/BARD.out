@@ -1,0 +1,15 @@
+sifdecode  BARD
+
+ Problem name: BARD      
+
+ Double precision version will be formed. 
+
+ The objective function uses       15 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 17.4287
+Setup time: 0.003333
+Solve time: 0
+Number of Function Evaluations = 262

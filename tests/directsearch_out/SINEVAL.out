@@ -1,0 +1,16 @@
+sifdecode  SINEVAL
+
+ Problem name: SINEVAL   
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 2.59339e-19
+Setup time: 0.003333
+Solve time: 0.146667
+Number of Function Evaluations = 443029

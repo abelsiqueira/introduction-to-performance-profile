@@ -1,0 +1,15 @@
+sifdecode  HEART6LS
+
+ Problem name: HEART6LS  
+
+ Double precision version will be formed. 
+
+ The objective function uses        6 nonlinear groups
+ 
+ There are        6 free variables
+ 
+ 
+Objective value = 222.723
+Setup time: 0.00666702
+Solve time: 0
+Number of Function Evaluations = 564

@@ -1,0 +1,15 @@
+sifdecode  VIBRBEAM
+
+ Problem name: VIBRBEAM  
+
+ Double precision version will be formed. 
+
+ The objective function uses       30 nonlinear groups
+ 
+ There are        8 free variables
+ 
+ 
+Objective value = 8.58561
+Setup time: 0.006666
+Solve time: 0.163334
+Number of Function Evaluations = 3486

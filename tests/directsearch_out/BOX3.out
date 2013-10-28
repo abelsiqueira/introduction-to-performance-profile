@@ -1,0 +1,15 @@
+sifdecode  BOX3
+
+ Problem name: BOX3      
+
+ Double precision version will be formed. 
+
+ The objective function uses       10 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 5.38263e-19
+Setup time: 0.00333297
+Solve time: 0.01
+Number of Function Evaluations = 3223

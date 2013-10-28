@@ -1,0 +1,15 @@
+sifdecode  GULF
+
+ Problem name: GULF      
+
+ Double precision version will be formed. 
+
+ The objective function uses       99 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 4.31472e-30
+Setup time: 0.00333399
+Solve time: 0.079999
+Number of Function Evaluations = 711

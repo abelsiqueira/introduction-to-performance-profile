@@ -1,0 +1,15 @@
+sifdecode  ARGLINB
+
+ Problem name: ARGLINB   
+
+ Double precision version will be formed. 
+
+ The objective function uses      400 linear groups
+ 
+ There are      200 free variables
+ 
+ 
+Objective value = 99.6255
+Setup time: 0.156666
+Solve time: 6.69
+Number of Function Evaluations = 76801

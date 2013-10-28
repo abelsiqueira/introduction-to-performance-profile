@@ -1,0 +1,16 @@
+sifdecode  ROSENBR
+
+ Problem name: ROSENBR   
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 1.04256e-25
+Setup time: 0.00333297
+Solve time: 0.00333402
+Number of Function Evaluations = 313

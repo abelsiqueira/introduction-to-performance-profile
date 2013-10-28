@@ -1,0 +1,15 @@
+sifdecode  DENSCHND
+
+ Problem name: DENSCHND  
+
+ Double precision version will be formed. 
+
+ The objective function uses        3 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 6.54597e-59
+Setup time: 0.00333405
+Solve time: 0.466666
+Number of Function Evaluations = 227105

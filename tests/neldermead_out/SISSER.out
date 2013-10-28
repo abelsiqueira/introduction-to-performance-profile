@@ -1,0 +1,15 @@
+sifdecode  SISSER
+
+ Problem name: SISSER    
+
+ Double precision version will be formed. 
+
+ The objective function uses        3 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 1.39618e-47
+Setup time: 0.003333
+Solve time: 0
+Number of Function Evaluations = 321

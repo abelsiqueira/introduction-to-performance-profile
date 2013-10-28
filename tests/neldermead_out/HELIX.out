@@ -1,0 +1,16 @@
+sifdecode  HELIX
+
+ Problem name: HELIX     
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses        2 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 9.72637
+Setup time: 0.00333399
+Solve time: 0.003333
+Number of Function Evaluations = 308

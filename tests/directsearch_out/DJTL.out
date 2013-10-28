@@ -1,0 +1,15 @@
+sifdecode  DJTL
+
+ Problem name: DJTL      
+
+ Double precision version will be formed. 
+
+ The objective function uses        9 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = -8951.54
+Setup time: 0.00333402
+Solve time: 0.05
+Number of Function Evaluations = 26013

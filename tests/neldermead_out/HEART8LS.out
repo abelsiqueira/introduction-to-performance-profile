@@ -1,0 +1,16 @@
+sifdecode  HEART8LS
+
+ Problem name: HEART8LS  
+
+ Double precision version will be formed. 
+
+ The objective function uses        2 linear groups
+ The objective function uses        6 nonlinear groups
+ 
+ There are        8 free variables
+ 
+ 
+Objective value = 1.14604
+Setup time: 0.00999999
+Solve time: 0.02
+Number of Function Evaluations = 3754

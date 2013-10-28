@@ -1,0 +1,15 @@
+sifdecode  GROWTHLS
+
+ Problem name: GROWTHLS  
+
+ Double precision version will be formed. 
+
+ The objective function uses       12 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 1.00404
+Setup time: 0.003333
+Solve time: 5.91667
+Number of Function Evaluations = 4144729

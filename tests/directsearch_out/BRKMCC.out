@@ -1,0 +1,16 @@
+sifdecode  BRKMCC
+
+ Problem name: BRKMCC    
+
+ Double precision version will be formed. 
+
+ The objective function uses        3 linear groups
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 0.169043
+Setup time: 0.00333297
+Solve time: 0.00333303
+Number of Function Evaluations = 825

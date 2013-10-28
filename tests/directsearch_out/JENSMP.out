@@ -1,0 +1,15 @@
+sifdecode  JENSMP
+
+ Problem name: JENSMP    
+
+ Double precision version will be formed. 
+
+ The objective function uses       10 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 124.362
+Setup time: 0.003333
+Solve time: 0.00666699
+Number of Function Evaluations = 489

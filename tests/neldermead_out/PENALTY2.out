@@ -1,0 +1,15 @@
+sifdecode  PENALTY2
+
+ Problem name: PENALTY2  
+
+ Double precision version will be formed. 
+
+ The objective function uses      400 nonlinear groups
+ 
+ There are      200 free variables
+ 
+ 
+Objective value = 4.71163e+13
+Setup time: 0.013333
+Solve time: 0.326667
+Number of Function Evaluations = 8287

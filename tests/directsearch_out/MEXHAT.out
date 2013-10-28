@@ -1,0 +1,15 @@
+sifdecode  MEXHAT
+
+ Problem name: MEXHAT    
+
+ Double precision version will be formed. 
+
+ The objective function uses        2 nonlinear groups
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = -0.04001
+Setup time: 0.01
+Solve time: 0.073334
+Number of Function Evaluations = 279825

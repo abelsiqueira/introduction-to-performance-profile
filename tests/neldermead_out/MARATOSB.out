@@ -1,0 +1,16 @@
+sifdecode  MARATOSB
+
+ Problem name: MARATOSB  
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses        1 nonlinear group 
+ 
+ There are        2 free variables
+ 
+ 
+Objective value = 1e+06
+Setup time: 0.003333
+Solve time: 0.003333
+Number of Function Evaluations = 178

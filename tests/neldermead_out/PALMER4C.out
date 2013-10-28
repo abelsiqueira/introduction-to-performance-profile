@@ -1,0 +1,15 @@
+sifdecode  PALMER4C
+
+ Problem name: PALMER4C  
+
+ Double precision version will be formed. 
+
+ The objective function uses       23 nonlinear groups
+ 
+ There are        8 free variables
+ 
+ 
+Objective value = 3.43546
+Setup time: 0.003333
+Solve time: 0.02
+Number of Function Evaluations = 2625

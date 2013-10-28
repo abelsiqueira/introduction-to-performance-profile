@@ -1,0 +1,16 @@
+sifdecode  WATSON
+
+ Problem name: WATSON    
+
+ Double precision version will be formed. 
+
+ The objective function uses        1 linear group 
+ The objective function uses       30 nonlinear groups
+ 
+ There are       12 free variables
+ 
+ 
+Objective value = 0
+Setup time: 0.006666
+Solve time: 0.030001
+Number of Function Evaluations = 1539

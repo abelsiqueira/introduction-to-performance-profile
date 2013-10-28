@@ -1,0 +1,16 @@
+sifdecode  DECONVU
+
+ Problem name: DECONVU   
+
+ Double precision version will be formed. 
+
+ The objective function uses       40 nonlinear groups
+ 
+ There are       51 free variables
+ There are       12 fixed variables
+ 
+ 
+Objective value = 3.69312e-20
+Setup time: 0.01
+Solve time: 1.29667
+Number of Function Evaluations = 377119

@@ -1,0 +1,15 @@
+sifdecode  PALMER1D
+
+ Problem name: PALMER1D  
+
+ Double precision version will be formed. 
+
+ The objective function uses       35 nonlinear groups
+ 
+ There are        7 free variables
+ 
+ 
+Objective value = 26.3734
+Setup time: 0.003333
+Solve time: 0.020001
+Number of Function Evaluations = 3068

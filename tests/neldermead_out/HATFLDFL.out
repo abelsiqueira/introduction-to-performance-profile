@@ -1,0 +1,15 @@
+sifdecode  HATFLDFL
+
+ Problem name: HATFLDFL  
+
+ Double precision version will be formed. 
+
+ The objective function uses        3 nonlinear groups
+ 
+ There are        3 free variables
+ 
+ 
+Objective value = 6.0167e-05
+Setup time: 0.01
+Solve time: 0.04
+Number of Function Evaluations = 21806

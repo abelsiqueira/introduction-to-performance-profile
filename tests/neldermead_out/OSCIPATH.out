@@ -1,0 +1,15 @@
+sifdecode  OSCIPATH
+
+ Problem name: OSCIPATH  
+
+ Double precision version will be formed. 
+
+ The objective function uses       10 nonlinear groups
+ 
+ There are       10 free variables
+ 
+ 
+Objective value = 3.70829e-25
+Setup time: 0.00333402
+Solve time: 0.02
+Number of Function Evaluations = 2112
