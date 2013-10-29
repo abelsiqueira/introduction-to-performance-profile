@@ -7,6 +7,8 @@ possivelmente outras pessoas que estejam na mesma situação.
 
 ## Licença
 
-Conteúdo em CC-BY-SA 3.0
-http://creativecommons.org/licenses/by-sa/3.0/
-
+Este trabalho está licençiado sob a Licença Atribuição-CompartilhaIgual 3.0
+Brasil da Creative Commons. Para ver uma cópia desta licença, visite
+http://creativecommons.org/licenses/by-sa/3.0/br/ ou envie uma carta para
+Creative Commons, 444 Castro Street, Suite 900, Mountain View, California,
+94041, USA.
