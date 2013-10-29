@@ -49,7 +49,7 @@
 \linespread{1.3}
 
 \newcommand{\mytitle}{
-Perfil de Desempenho - Rápida Introdução}
+Perfil de Desempenho \\ Rápida Introdução}
 \newcommand{\myauthor}{
 Abel Soares Siqueira}
 
@@ -229,6 +229,21 @@ Abel Soares Siqueira}
     \item<4-> Faça com que seu algoritmo imprima os resultados de uma maneira
       fácil de ser lida por uma máquina.
   \end{itemize}
+}
+
+\myframe{
+  Um exemplo mais avançado. Implementamos
+  \begin{itemize}
+    \item<2-> Método de Busca Direcional (Direct Search)
+    \item<3-> Método Nelder-Mead (Nelmer-Mead)
+  \end{itemize}
+}
+
+\myframe{
+  \pgfdeclareimage[width=0.95\textwidth]{profile}{tests/profile}
+  \pgfdeclareimage[width=0.95\textwidth]{profilelog}{tests/profile_log}
+  \pgfuseimage{profile}<1>
+  \pgfuseimage{profilelog}<2>
 }
 
 \end{document}

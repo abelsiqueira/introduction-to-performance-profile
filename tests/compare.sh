@@ -67,9 +67,21 @@ echo "x = unique(sort(x));" >> perf_prof.m
 echo "nm = sum(y_nm <= x');" >> perf_prof.m
 echo "ds = sum(y_ds <= x');" >> perf_prof.m
 echo "M = max([nm,ds]); nm = nm/M; ds = ds/M;" >> perf_prof.m
-echo "hold off; plot(x,nm,'r'); hold on; plot(x,ds,'b')" >> perf_prof.m
+
+echo "h = plot(x,nm,'r',x,ds,'b');" >> perf_prof.m
 echo "axis([1,max(x),0,1])" >> perf_prof.m
+echo "set(gca,'YTick',0:0.2:1)" >> perf_prof.m
+echo "set(h,'linewidth',3)" >> perf_prof.m
+echo "legend('nelder-mead','direct search','location','southeast')" >> perf_prof.m
+echo "legend('boxon')" >> perf_prof.m
 echo "print('profile.png')" >> perf_prof.m
-echo "hold off; semilogx(x,nm,'r'); hold on; semilogy(x,ds,'b')" >> perf_prof.m
+
+echo "h = semilogx(x,nm,'r',x,ds,'b');" >> perf_prof.m
+echo "axis([1,max(x),0,1])" >> perf_prof.m
+echo "set(gca,'YTick',0:0.2:1)" >> perf_prof.m
+echo "set(h,'linewidth',3)" >> perf_prof.m
+echo "legend('nelder-mead','direct search','location','southeast')" >> perf_prof.m
+echo "legend('boxon')" >> perf_prof.m
 echo "print('profile_log.png')" >> perf_prof.m
 
+octave --eval 'perf_prof'
